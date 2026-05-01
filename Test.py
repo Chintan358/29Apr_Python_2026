@@ -37,11 +37,16 @@
 
 # print("python","java","php","android",sep=" | ")
 
-name = "sad"
-email = "priya@gmail.com"
+# name = "sad"
+# email = "priya@gmail.com"
 
 # print("my name is {0} and email is {1}".format(name,email))
 
 # print(f"my name is {name} and email is {email}")
 
-print(r"He\tll\bo \" \n python")
+# print(r"He\tll\bo \" \n python")
+
+# a = int(input("Enter a : "))
+# print(type(a))
+
+print("Hello python hello tops".split("e"))
